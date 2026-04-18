@@ -5,6 +5,7 @@ This repository contains Playwright E2E automation learning resources and Java c
 ## Structure
 - `Basics/` - Playwright test scripts and examples
 - `JAVA_concepts/` - Java core concepts and related scripts
+   - `Var_let_const.js` - Demonstrates differences between var, let, and const in JavaScript
 
 ## Getting Started
 1. Clone the repository:
