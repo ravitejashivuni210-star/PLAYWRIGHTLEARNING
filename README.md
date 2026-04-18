@@ -12,6 +12,7 @@ This repository contains Playwright E2E automation learning resources and Java c
    - `11_Functions_Hosting.js` - Demonstrates function hoisting in JavaScript
    - `12_Hoisting_let.js` - Example on let hoisting in JavaScript
    - `Var_Let_Const_Example.js` - Additional examples for var, let, and const
+   - `13_let_Var_if_block_hoisting.js` - let and var hoisting inside if blocks in JavaScript
 
 ## Getting Started
 1. Clone the repository:
