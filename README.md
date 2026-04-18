@@ -13,6 +13,8 @@ This repository contains Playwright E2E automation learning resources and Java c
    - `12_Hoisting_let.js` - Example on let hoisting in JavaScript
    - `Var_Let_Const_Example.js` - Additional examples for var, let, and const
    - `13_let_Var_if_block_hoisting.js` - let and var hoisting inside if blocks in JavaScript
+- `Chapter03_Identifier_operator_Literals_Statements/` - JavaScript identifiers, operators, literals, and statements
+   - `20_literals.js` - Examples of all JavaScript literal types
 
 ## Getting Started
 1. Clone the repository:
