@@ -18,3 +18,7 @@ function SAM(){
     console.log("SAM is cute");
 }
 SAM();
+const pi =3.145
+console.log(pi);
+pi =3.147;
+console.log(pi);

@@ -8,6 +8,10 @@ This repository contains Playwright E2E automation learning resources and Java c
    - `Var_let_const.js` - Demonstrates differences between var, let, and const in JavaScript
    - `let_example.js` - Example usage of let in JavaScript
    - `let_ifblock.js` - Demonstrates let usage inside if blocks in JavaScript
+   - `09_Hosting.js` - Example on JavaScript hoisting
+   - `11_Functions_Hosting.js` - Demonstrates function hoisting in JavaScript
+   - `12_Hoisting_let.js` - Example on let hoisting in JavaScript
+   - `Var_Let_Const_Example.js` - Additional examples for var, let, and const
 
 ## Getting Started
 1. Clone the repository:
