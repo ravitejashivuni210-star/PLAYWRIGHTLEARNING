@@ -3,8 +3,6 @@
 This repository contains Playwright E2E automation learning resources and Java core concepts.
 
 ## Structure
-- `Basics/` - Playwright test scripts and examples
-- `JAVA_concepts/` - Java core concepts and related scripts
    - `Var_let_const.js` - Demonstrates differences between var, let, and const in JavaScript
    - `let_example.js` - Example usage of let in JavaScript
    - `let_ifblock.js` - Demonstrates let usage inside if blocks in JavaScript
@@ -13,9 +11,10 @@ This repository contains Playwright E2E automation learning resources and Java c
    - `12_Hoisting_let.js` - Example on let hoisting in JavaScript
    - `Var_Let_Const_Example.js` - Additional examples for var, let, and const
    - `13_let_Var_if_block_hoisting.js` - let and var hoisting inside if blocks in JavaScript
-- `Chapter03_Identifier_operator_Literals_Statements/` - JavaScript identifiers, operators, literals, and statements
    - `20_literals.js` - Examples of all JavaScript literal types
    - `24_Null.js` - Examples and explanation of null in JavaScript
+`Chapter04_Operators and Opernads/` - JavaScript operators and operands
+    - `Logical_operators.js` - Examples of logical operators in JavaScript
 
 ## Getting Started
 1. Clone the repository:
@@ -32,5 +31,3 @@ This repository contains Playwright E2E automation learning resources and Java c
    ```
 
 ## Notes
-- `.gitignore` is set up for Node.js, Playwright, and common development files.
-- Contributions and suggestions are welcome!
